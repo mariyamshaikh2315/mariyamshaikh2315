@@ -31,7 +31,7 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="[www.linkedin.com/in/mariyam-shaikh-454885330](https://www.linkedin.com/in/mariyam-shaikh-454885330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="(https://www.linkedin.com/in/mariyam-shaikh-454885330"?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/simplified_learner" target="_blank">
